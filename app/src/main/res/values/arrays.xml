@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sayilar">
+        <item>0-Zero</item>
+        <item>1-One</item>
+        <item>2-Two</item>
+        <item>3-Three</item>
+        <item>4-Four</item>
+        <item>5-Five</item>
+        <item>6-Six</item>
+        <item>7-Seven</item>
+        <item>8-Eight</item>
+        <item>9-Nine</item>
+        <item>10-Ten</item>
+        <item>11-Eleven</item>
+        <item>12-Twelve</item>
+    </string-array>
+
+
+    <string-array name="renkler">
+        <item>Siyah-Black</item>
+        <item>Beyaz-White</item>
+        <item>Sarı-Yellow</item>
+        <item>Kırmızı-Red</item>
+        <item>Yeşil-Green</item>
+        <item>Mavi-Blue</item>
+        <item>Mor-Purple</item>
+        <item>Pembe-Pink</item>
+        <item>Gri-Gray</item>
+        <item>Turuncu-Orange</item>
+        <item>Kahverengi-Brown</item>
+    </string-array>
+
+    <string-array name="hayvanlar">
+        <item>At-Horse</item>
+        <item>Ayı-Bear</item>
+        <item>Kedi-Cat</item>
+        <item>Köpek-Dog</item>
+        <item>Kuş-Bird</item>
+        <item>Balık-Fish</item>
+        <item>Eşek-Donkey</item>
+        <item>Kaplumbağa-Turtle</item>
+        <item>Aslan-Lion</item>
+        <item>Timsah-Crocodile</item>
+        <item>Yılan-Snake</item>
+        <item>Tavşan-Rabbit</item>
+        <item>Tavuk-Chicken</item>
+        <item>Fare-Mouse</item>
+    </string-array>
+
+
+</resources>
